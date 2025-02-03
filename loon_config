@@ -50,7 +50,7 @@ Youtube = select,HK Scene,SG Scene,TW Scene,JP Scene,US Scene,Global Scene,url =
 Google = select,US Scene,HK Scene,TW Scene,JP Scene,SG Scene,Global Scene,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google.png
 Disney = select,SG Scene,HK Scene,TW Scene,JP Scene,US Scene,Global Scene,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Disney.png
 Bahamut = select,TW Scene,HK Scene,Global Scene,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bahamut.png
-TikTok = select,US Scene,HK Scene,TW Scene,JP Scene,SG Scene,Global Scene,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok.png
+#TikTok = select,US Scene,HK Scene,TW Scene,JP Scene,SG Scene,Global Scene,url = http://cp.cloudflare.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok.png
 Facebook = select,HK Scene,TW Scene,JP Scene,SG Scene,US Scene,Global Scene,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Facebook.png
 # --------------------------------
 # select
@@ -101,6 +101,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PayPal/PayPal.list, policy=Final, tag=PayPal, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Bahamut/Bahamut.list, policy=Bahamut, tag=Bahamut, enabled=true
 https://kelee.one/Tool/Loon/Rule/LAN, policy=DIRECT, tag=LAN, enabled=true
+https://raw.githubusercontent.com/wang-maosheng/Loon-rule/refs/heads/main/Talkatone, policy=DIRECT, tag=Talkatone, enabled=true
 
 
 [Host]
